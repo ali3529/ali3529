@@ -1,7 +1,7 @@
 # Hi Guys ✋🏻 I'm **Alireza**
 
 You meet Alireza, a software engineer with over **6 years** of experience in web development. With a strong focus on **front-end** and familiarity with **back-end** technologies.
-Proudly I contributed to large-scale projects within the **Digikala Group**. These projects have over 10 million daily visits and over 40 million users. The story of these exciting projects continues and now I am working at **Boozt** company.
+Proudly I contributed to large-scale projects within the **Innova Group**. These projects have over 1 million daily visits and over 5 million users.
 
 I really believe that nothing is more important and exciting than learning and teaching web-based technologies and **there is still so much for me to learn**. I am incredibly patient and friendly with my co-workers and teammates and socialize well with people.
 
